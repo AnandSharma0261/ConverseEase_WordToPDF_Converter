@@ -1,8 +1,5 @@
-# React + Vite
+<h1><center>Project: ConverseEase – Word to PDF Converter</center></h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![screencapture-localhost-5173-2024-11-10-14_14_57](https://github.com/user-attachments/assets/3c0a941f-db49-40dd-bb05-146d39c0de1b)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![screencapture-localhost-5173-2024-11-10-14_14_57](https://github.com/user-attachments/assets/31405493-136d-4271-888a-095e06779ae1)
